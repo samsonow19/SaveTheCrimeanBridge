@@ -16,19 +16,18 @@ using System.Windows.Shapes;
 namespace SaveCrimeanBridge
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// Interaction logic for MainGame.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class MainGame : Page
     {
-        public MainWindow()
+        public MainGame()
         {
             InitializeComponent();
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            
-            this.Content = new MainGame();
+
         }
     }
 }

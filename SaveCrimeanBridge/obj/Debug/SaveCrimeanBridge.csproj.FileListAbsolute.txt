@@ -1,1 +1,15 @@
 c:\users\zeka\documents\visual studio 2013\Projects\SaveCrimeanBridge\SaveCrimeanBridge\bin\Debug\SaveCrimeanBridge.exe.config
+C:\Users\Zeka\Documents\Visual Studio 2013\Projects\SaveCrimeanBridge\SaveCrimeanBridge\bin\Debug\SaveCrimeanBridge.exe
+C:\Users\Zeka\Documents\Visual Studio 2013\Projects\SaveCrimeanBridge\SaveCrimeanBridge\bin\Debug\SaveCrimeanBridge.pdb
+C:\Users\Zeka\Documents\Visual Studio 2013\Projects\SaveCrimeanBridge\SaveCrimeanBridge\obj\Debug\SaveCrimeanBridge.csprojResolveAssemblyReference.cache
+C:\Users\Zeka\Documents\Visual Studio 2013\Projects\SaveCrimeanBridge\SaveCrimeanBridge\obj\Debug\MainGame.baml
+C:\Users\Zeka\Documents\Visual Studio 2013\Projects\SaveCrimeanBridge\SaveCrimeanBridge\obj\Debug\MainWindow.baml
+C:\Users\Zeka\Documents\Visual Studio 2013\Projects\SaveCrimeanBridge\SaveCrimeanBridge\obj\Debug\MainGame.g.cs
+C:\Users\Zeka\Documents\Visual Studio 2013\Projects\SaveCrimeanBridge\SaveCrimeanBridge\obj\Debug\MainWindow.g.cs
+C:\Users\Zeka\Documents\Visual Studio 2013\Projects\SaveCrimeanBridge\SaveCrimeanBridge\obj\Debug\App.g.cs
+C:\Users\Zeka\Documents\Visual Studio 2013\Projects\SaveCrimeanBridge\SaveCrimeanBridge\obj\Debug\SaveCrimeanBridge_MarkupCompile.cache
+C:\Users\Zeka\Documents\Visual Studio 2013\Projects\SaveCrimeanBridge\SaveCrimeanBridge\obj\Debug\SaveCrimeanBridge.g.resources
+C:\Users\Zeka\Documents\Visual Studio 2013\Projects\SaveCrimeanBridge\SaveCrimeanBridge\obj\Debug\SaveCrimeanBridge.Properties.Resources.resources
+C:\Users\Zeka\Documents\Visual Studio 2013\Projects\SaveCrimeanBridge\SaveCrimeanBridge\obj\Debug\SaveCrimeanBridge.csproj.GenerateResource.Cache
+C:\Users\Zeka\Documents\Visual Studio 2013\Projects\SaveCrimeanBridge\SaveCrimeanBridge\obj\Debug\SaveCrimeanBridge.exe
+C:\Users\Zeka\Documents\Visual Studio 2013\Projects\SaveCrimeanBridge\SaveCrimeanBridge\obj\Debug\SaveCrimeanBridge.pdb
